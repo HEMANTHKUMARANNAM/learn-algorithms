@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/learn-algorithms/static/css/main.f855e6bc.css",
+    "main.js": "/learn-algorithms/static/js/main.387a5e16.js",
+    "static/js/453.597ee709.chunk.js": "/learn-algorithms/static/js/453.597ee709.chunk.js",
+    "static/media/logo.svg": "/learn-algorithms/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/learn-algorithms/index.html",
+    "main.f855e6bc.css.map": "/learn-algorithms/static/css/main.f855e6bc.css.map",
+    "main.387a5e16.js.map": "/learn-algorithms/static/js/main.387a5e16.js.map",
+    "453.597ee709.chunk.js.map": "/learn-algorithms/static/js/453.597ee709.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.387a5e16.js"
+  ]
+}
